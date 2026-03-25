@@ -31,3 +31,4 @@ After six months of trial and error, the combination documented works
 | NVIDIA Driver   | `580.126.09` (proprietary)               |
 | CUDA            | 13.0                                     |
 
+## To view the FIX and GUIDE, download the html file and open with preferred browser
