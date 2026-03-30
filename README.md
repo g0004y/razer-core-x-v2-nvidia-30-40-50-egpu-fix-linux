@@ -1,7 +1,6 @@
 # eGPU on Linux — ThinkPad T14 Gen 3 + Razer Core X V2 + RTX 4070 SUPER
 
-> A real-world guide to getting an NVIDIA RTX 40-series eGPU working on Linux via USB4/Thunderbolt.
-> Documented from actual troubleshooting — every detail here was verified against a working system.
+> A guide to getting NVIDIA RTX 40-series eGPUs working on Linux via USB4/Thunderbolt.
 
 ---
 
