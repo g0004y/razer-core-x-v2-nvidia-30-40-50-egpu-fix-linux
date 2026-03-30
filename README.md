@@ -31,4 +31,4 @@ After six months of trial and error, the combination documented works
 | NVIDIA Driver   | `580.126.09` (proprietary)               |
 | CUDA            | 13.0                                     |
 
-#### To view the FIX and GUIDE, download the html file and open with preferred browser
+#### To view the FIX and GUIDE, [download the HTML file](https://github.com/g0004y/razer-core-x-v2-nvidia-30-40-50-egpu-fix-linux/releases/download/v1.0/egpu-guide.html) and open with your preferred browser
